@@ -10,7 +10,7 @@ const item = {
 
 describe("sanity check", () => {
   it("works", () => {
-    expect(true).toBe(true);
+    expect(3).toBe(3);
   });
 });
 
